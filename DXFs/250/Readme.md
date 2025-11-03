@@ -1,3 +1,1 @@
-Panels for a standard 250 Trident.
-
-Does not current include the bottom panel.
+Panels for a 250 Trident DoomCube
